@@ -41,4 +41,21 @@ The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/Andr
 
 ##How to import
 
-1. Google Chrome
+
+##How to import
+
+### Google Chrome ([Source](https://support.google.com/chrome/answer/96816?hl=en))
+1. Open Chrome.
+2. In the top-right corner of the browser window, click the Chrome menu icon.
+3. Under **Bookmarks** Select **Import Bookmarks and Settings**.
+4. In the "From" drop-down menu, select **Bookmarks HTML file**.
+5. Select Choose File.
+6. Upload the saved HTML.
+7. Click **Done**.
+
+###Firefox ([Source](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file))
+1. Click the Bookmarks button icon and select **Show All Bookmarks** to open the Library window.
+2. From the toolbar on the Library window, click **Import and Backup** and choose *Import Bookmarks from HTML*
+3. In the Import Bookmarks File window that opens, navigate to the bookmarks HTML file you are importing and select the file.
+4. Click the **Open** button. The Import Bookmarks File window will close.
+5. Close the Library window.
