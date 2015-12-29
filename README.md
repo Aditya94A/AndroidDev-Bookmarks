@@ -1,7 +1,7 @@
 # AndroidDev-Bookmarks
 Websites useful to all android developers.
 
-Inspired by the massive [android-dev-readme](https://github.com/anirudh24seven/android-dev-readme) collection of links, this is a bit more compact list of websites useful to *all* android developers.
+Inspired by the massive [android-dev-readme](https://github.com/anirudh24seven/android-dev-readme) collection of links, this is a bit more compact list of websites useful to *all* android developers. Check out [this](http://adityaanand.in/android/posts/bookmarks-for-android-developers.html) blog post for more info.
 
 The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/AndroidDev-Bookmarks/releases/download/1.0/AndroidDev-Bookmarks-import-file.zip) and imported into web browsers such as Google Chrome, Firefox etc.
 
