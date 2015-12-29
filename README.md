@@ -5,6 +5,8 @@ Inspired by the massive [android-dev-readme](https://github.com/anirudh24seven/a
 
 The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/AndroidDev-Bookmarks/releases/download/1.0/AndroidDev-Bookmarks-import-file.zip) and imported into web browsers such as Google Chrome, Firefox etc.
 
+![Screenshot](https://raw.githubusercontent.com/AdityaAnand1/AndroidDev-Bookmarks/master/Screenshot.png)
+
 ##### Development and News
 
 1.  [Android Reference](http://developer.android.com/reference/packages.html) - Official Android documentation.
@@ -36,3 +38,7 @@ The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/Andr
 3.  [Square](http://square.github.io/#android) - Square's android libraries.
 4.  [Android Arsenal](https://android-arsenal.com/) - Collection of all android libraries.
 5.  [#AndroidDev Digest](https://www.androiddevdigest.com/) - Weekly android happenings.
+
+##How to import
+
+1. Google Chrome
