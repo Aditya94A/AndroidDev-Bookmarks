@@ -39,9 +39,9 @@ The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/Andr
 4.  [Android Arsenal](https://android-arsenal.com/) - Collection of all android libraries.
 5.  [#AndroidDev Digest](https://www.androiddevdigest.com/) - Weekly android happenings.
 
-##How to import
+##How to import into your browser
 
-### Google Chrome ([Source](https://support.google.com/chrome/answer/96816?hl=en))
+#####Google Chrome ([Source](https://support.google.com/chrome/answer/96816?hl=en))
 1. Open Chrome.
 2. In the top-right corner of the browser window, click the Chrome menu icon.
 3. Under **Bookmarks** Select **Import Bookmarks and Settings**.
@@ -50,7 +50,7 @@ The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/Andr
 6. Upload the saved HTML.
 7. Click **Done**.
 
-###Firefox ([Source](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file))
+#####Firefox ([Source](https://support.mozilla.org/en-US/kb/import-bookmarks-html-file))
 1. Click the Bookmarks button icon and select **Show All Bookmarks** to open the Library window.
 2. From the toolbar on the Library window, click **Import and Backup** and choose *Import Bookmarks from HTML*
 3. In the Import Bookmarks File window that opens, navigate to the bookmarks HTML file you are importing and select the file.
