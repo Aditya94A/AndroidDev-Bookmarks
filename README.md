@@ -41,9 +41,6 @@ The bookmarks file can be downloaded [here](https://github.com/AdityaAnand1/Andr
 
 ##How to import
 
-
-##How to import
-
 ### Google Chrome ([Source](https://support.google.com/chrome/answer/96816?hl=en))
 1. Open Chrome.
 2. In the top-right corner of the browser window, click the Chrome menu icon.
